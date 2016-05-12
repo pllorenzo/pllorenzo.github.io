@@ -17,6 +17,7 @@ p {
 h2 {
    text-align: center;
    font-size: 2.6rem;
+   font-color: yellow;
 }
 
 div {
@@ -30,7 +31,7 @@ div {
 }
 
 .nav {
-    background-color: blue;
+    background-color: #5262BF;
     max-width: 25%;
     min-width: 140px;
     flex: 1;
@@ -87,6 +88,4 @@ textarea {
 button {
     margin-left: .5em;
 }
-
-
 
