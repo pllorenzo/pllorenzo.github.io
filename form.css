@@ -1,4 +1,4 @@
-html, body {
+body {
     font-family: helvetica;
     margin: 0;
     width: 100%;
@@ -30,7 +30,7 @@ div {
 }
 
 .nav {
-    background-color: #5262BF;
+    background-color: blue;
     max-width: 25%;
     min-width: 140px;
     flex: 1;
@@ -38,7 +38,6 @@ div {
 
 .nav h1 {
     padding-left: 20px;
-    font-color: #E8F464;
 }
 
 form {
