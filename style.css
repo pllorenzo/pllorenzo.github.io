@@ -62,6 +62,12 @@ body {
   padding-top: 10px;
 }
 
+header .row,
+footer .row {
+  display: flex;
+  align-items: center;
+}
+
 .icon-menu {
   color: #fff;
   cursor: pointer;
