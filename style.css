@@ -8,7 +8,7 @@ body {
 
 /* Initial menu */
 .menu {
-  background: #202024 url('https://media3.popsugar-assets.com/files/2015/06/09/930/n/1922398/ef0d5ecd_shutterstock_239009758.xxxlarge_2x.jpg') repeat left top;
+  background: #202024 url('http://s3.amazonaws.com/codecademy-content/courses/ltp2/img/uber/black-thread.png') repeat left top;
   left: -285px;  /* start off behind the scenes */
   height: 100%;
   position: fixed;
@@ -18,12 +18,19 @@ body {
 /* Basic styling */
 
 .jumbotron {
-  background-image: url('http://blogs-images.forbes.com/insertcoin/files/2015/10/force-awakens.jpg'); 
+  background-image: url('http://s3.amazonaws.com/codecademy-content/courses/ltp2/img/uber/bg.png'); 
   height: 100%;
   -webkit-background-size: cover;
      -moz-background-size: cover;
        -o-background-size: cover;
           background-size: cover;
+}
+
+.jumbotron h2{
+  font-size: 60px;
+  font-weight: 700;
+  margin: 0;
+  color: #fff;
 }
 
 .menu ul {
