@@ -8,7 +8,7 @@ body {
 
 /* Initial menu */
 .menu {
-  background: #202024 url('http://s3.amazonaws.com/codecademy-content/courses/ltp2/img/uber/black-thread.png') repeat left top;
+  background: #202024 url('http://img.lum.dolimg.com/v1/images/tfa-all-the-way-tv-spot-sw_b4aa54a3.jpeg?region=0%2C0%2C1920%2C1080') repeat left top;
   left: -285px;  /* start off behind the scenes */
   height: 100%;
   position: fixed;
@@ -18,7 +18,7 @@ body {
 /* Basic styling */
 
 .jumbotron {
-  background-image: url('http://s3.amazonaws.com/codecademy-content/courses/ltp2/img/uber/bg.png'); 
+  background-image: url('http://i2.wp.com/bitcast-a-sm.bitgravity.com/slashfilm/wp/wp-content/images/rey__bb_8_star_wars_the_force_awakens-HD-1600x900.jpg'); 
   height: 100%;
   -webkit-background-size: cover;
      -moz-background-size: cover;
